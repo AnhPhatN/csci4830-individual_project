@@ -1,1 +1,1 @@
-# csci4830-individually_project
+# csci4830-individual_project
