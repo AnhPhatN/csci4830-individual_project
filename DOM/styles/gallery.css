@@ -1,0 +1,50 @@
+
+
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    row-gap: 100px;
+}
+
+
+
+.gallery_item {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    background-color: antiquewhite;
+    border-radius: 5px;
+    column-gap: 20px;
+    padding: 20px 11px 20px 11px;
+
+
+    align-self: center;
+
+}
+
+
+
+.gallery_img > img {
+    width: 900px;
+
+}
+
+
+
+.gallery_caption {
+    padding-top: 50px;
+
+}
+
+
+.gallery_caption_title {
+    font-size: 40px;
+}
+
+.gallery_caption_artist {
+    font-size: 20px;
+
+}
+
+
+  
